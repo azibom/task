@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>task</name>
+  <version>0.0.0</version>
+  <description>The task package</description>
+  <maintainer email="mohammad@todo.todo">mohammad</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+</package>
